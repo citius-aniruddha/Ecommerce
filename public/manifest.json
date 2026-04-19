@@ -1,0 +1,14 @@
+{
+  "short_name": "ShopLite",
+  "name": "ShopLite Ecommerce App",
+  "description": "A fast, offline-ready ecommerce PWA",
+  "icons": [
+    { "src": "logo192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "logo512.png", "type": "image/png", "sizes": "512x512" }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#378ADD",
+  "background_color": "#ffffff",
+  "orientation": "portrait"
+}
